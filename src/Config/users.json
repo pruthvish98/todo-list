@@ -1,0 +1,20 @@
+[
+    {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "Admin@123",
+        "token": "855f96e983f1f8e8be944692b6f719fd54329826cb62e98015efee8e2e071dd4"
+    },
+    {
+        "name": "John Smith",
+        "email": "smith@example.com",
+        "password": "Admin@123",
+        "token": "b9400522c808a1c6e4a41dd7485a08ea01bcf139c44be7c6c3016136ded85c53"
+    },
+    {
+        "name": "Pruthvish Vaghela",
+        "email": "pruthvish@example.com",
+        "password": "Admin@123",
+        "token": "b177e8007d18da164a6053aad2294aeca0657d7a93134163598aba462a14b6ce"
+    }
+]
